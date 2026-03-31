@@ -4,8 +4,9 @@
 
 **Software Developer** · Estructuras de datos · IA & ML · Desarrollo Web
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/diegorivas1)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tu@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-raul-rivas-huanca-58084628b)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rhyi888@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=DiegoRivas1&style=flat-square&color=0A66C2&label=Visitas+al+perfil)
 
 </div>
 
@@ -56,14 +57,23 @@ developer = {
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoRivas1&layout=compact&theme=default&hide_border=true)
 
-> 📌 *Las estadísticas se actualizan automáticamente conforme se suba actividad a GitHub.*
+![GitHub Streak](https://streak-stats.demolab.com?user=DiegoRivas1&theme=default&hide_border=true&locale=es)
+
+</div>
+
+---
+
+## Trofeos
+
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=DiegoRivas1&theme=flat&no-frame=true&column=6&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
 ## Proyectos destacados
-
 
 | Proyecto | Descripción | Tecnología |
 |----------|-------------|------------|
