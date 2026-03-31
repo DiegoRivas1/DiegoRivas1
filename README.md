@@ -69,8 +69,8 @@ developer = {
 | Proyecto | Descripción | Tecnología |
 |----------|-------------|------------|
 | [📁 ds-core](https://github.com/DiegoRivas1/ds-core) | Implementación de estructuras de datos fundamentales | C++, Python |
-| [🤖 ml-projects](https://github.com/DiegoRivas1/ml-projects) | Experimentos y modelos de machine learning | Python, C++ |
-| [🌐 web-projects](https://github.com/DiegoRivas1/web-projects) | Colección de proyectos web full-stack | JavaScript, Java, Css
+| [🤖 ml-projects](https://github.com/DiegoRivas1/ml-labs-python.git) | Notebooks progresivos de ML | Python |
+| [🌐 web-projects](https://github.com/DiegoRivas1/app-angular-spring-inventarios) | Sistema de inventarios full-stack | Angular, Java, MySQL
 | [🔧 embedded-systems](https://github.com/DiegoRivas1/embedded-systems) | Proyectos con microcontroladores y firmware | C, C++ |
 | [🧩 personal](https://github.com/DiegoRivas1/personal) | Proyectos y herramientas personales | Varios |
 
