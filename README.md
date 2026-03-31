@@ -70,7 +70,7 @@ developer = {
 |----------|-------------|------------|
 | [📁 ds-core](https://github.com/DiegoRivas1/ds-core) | Implementación de estructuras de datos fundamentales | C++, Python |
 | [🤖 ml-projects](https://github.com/DiegoRivas1/ml-projects) | Experimentos y modelos de machine learning | Python |
-| [🌐 web-projects](https://github.com/DiegoRivas1/web-projects) | Colección de proyectos web full-stack | JavaScript | Java | Css
+| [🌐 web-projects](https://github.com/DiegoRivas1/web-projects) | Colección de proyectos web full-stack | JavaScript, Java, Css
 | [🔧 embedded-systems](https://github.com/DiegoRivas1/embedded-systems) | Proyectos con microcontroladores y firmware | C, C++ |
 | [🧩 personal](https://github.com/DiegoRivas1/personal) | Proyectos y herramientas personales | Varios |
 
