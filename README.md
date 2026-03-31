@@ -61,15 +61,6 @@ developer = {
 
 </div>
 
----
-
-## Trofeos
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=DiegoRivas1&theme=flat&no-frame=true&column=6&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
