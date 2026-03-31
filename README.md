@@ -56,7 +56,6 @@ developer = {
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoRivas1&layout=compact&theme=default&hide_border=true)
 
-
 > 📌 *Las estadísticas se actualizan automáticamente conforme se suba actividad a GitHub.*
 
 </div>
@@ -78,8 +77,8 @@ developer = {
 
 ## Contacto
 
-- 📧 **Email:** [rhyi888@gmail.com](rhyi888@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/diegorivas1](www.linkedin.com/in/diego-raul-rivas-huanca-58084628b)
+- 📧 **Email:** [rhyi888@gmail.com](mailto:rhyi888@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/diego-raul-rivas-huanca](https://www.linkedin.com/in/diego-raul-rivas-huanca-58084628b)
 
 ---
 
