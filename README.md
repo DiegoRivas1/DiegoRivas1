@@ -2,7 +2,9 @@
 
 # Diego Rivas
 
-**Software Developer** · Estructuras de datos · IA & ML · Desarrollo Web
+**Software Engineer** · Full Stack · C++ · AI · Big Data · Cloud · Computer Graphics
+
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-raul-rivas-huanca-58084628b)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rhyi888@gmail.com)
