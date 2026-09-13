@@ -38,7 +38,7 @@ developer = {
 | 🤖 **IA & Machine Learning** | Modelos, pipelines de datos, NLP y visión computacional |
 | 🌐 **Desarrollo Web** | Aplicaciones full-stack con frontend moderno y APIs robustas |
 | 🔧 **Sistemas embebidos** | Programación de microcontroladores, firmware y hardware |
-| 🧩 **Analisis Exploratorio de Datos** | Experimentación, herramientas propias y side projects |
+| 🧩 **Analisis Exploratorio de Datos** | Experimentación, herramientas propias y visual analitycs |
 
 ---
 
@@ -92,7 +92,7 @@ developer = {
 | [🤖 ml-labs-python](https://github.com/DiegoRivas1/MACHINE_LEARNING) | Notebooks progresivos de Machine Learning | Python |
 | [🌐 app-angular-spring-inventarios](https://github.com/DiegoRivas1/app-angular-spring-inventarios) | Sistema de inventarios full-stack | Angular, Java, MySQL |
 | [🔧 emb-projects](https://github.com/DiegoRivas1/emb-projects) | Proyectos con microcontroladores y firmware | C, C++ |
-| [🧩 personal-projects](https://github.com/DiegoRivas1/personal-projects) | Herramientas y side projects | Varios |
+| [🧩 cd-hubway-eda]((https://github.com/DiegoRivas1/cd-hubway-eda.git)) | Experimentación, herramientas propias y visual analitycs | Python |
 
 ---
 
