@@ -38,7 +38,7 @@ developer = {
 | 🤖 **IA & Machine Learning** | Modelos, pipelines de datos, NLP y visión computacional |
 | 🌐 **Desarrollo Web** | Aplicaciones full-stack con frontend moderno y APIs robustas |
 | 🔧 **Sistemas embebidos** | Programación de microcontroladores, firmware y hardware |
-| 🧩 **Proyectos personales** | Experimentación, herramientas propias y side projects |
+| 🧩 **Analisis Exploratorio de Datos** | Experimentación, herramientas propias y side projects |
 
 ---
 
