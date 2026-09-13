@@ -92,6 +92,7 @@ developer = {
 | [🤖 ml-labs-python](https://github.com/DiegoRivas1/MACHINE_LEARNING) | Notebooks progresivos de Machine Learning | Python |
 | [🌐 app-angular-spring-inventarios](https://github.com/DiegoRivas1/app-angular-spring-inventarios) | Sistema de inventarios full-stack | Angular, Java, MySQL |
 | [🔧 emb-projects](https://github.com/DiegoRivas1/emb-projects) | Proyectos con microcontroladores y firmware | C, C++ |
+| [🗂️ dl-rf-modclass-vit](https://github.com/DiegoRivas1/dl-rf-modclass-vit.git) | Vision Transformers en señales moduladas| Python |
 | [🧩 cd-hubway-eda](https://github.com/DiegoRivas1/cd-hubway-eda.git) | Experimentación, herramientas propias y visual analitycs | Python |
 
 ---
